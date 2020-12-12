@@ -1,0 +1,15 @@
+entidade
+
+cardapio-tamanho,valor
+pizza-nome_pizza
+cliente-nome
+funcionario-nome
+pedido-numero,data,hora
+entregadores-nome
+bairro-nome,tempo_entrega
+igredientes-nome
+
+
+item_pedido-id,idcardapio,idpedido
+endereço-rua,numero
+telefone-numero
